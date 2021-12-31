@@ -1,9 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mohsin Khalid</h1>
 <h3 align="center">(Modern Full-Stack Cloud Developer and Architect)</h3>
 
-💬 I can develop light weighted and powerfull cloud native container based applications that run on any cloud/PaaS (AWS, Google Cloud, Azure, Red Hat, etc.).
-  
- I have more than 7 years of experience in software architecture, design, development, implementation, and integration. Worked as a developer with enterprise teams and multiple startups across the world, fully engaged building their products to the next level like Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and many many more!
+💬 Modern full stack cloud Developer with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
+
+Have more than 8 years of experience in the industry. As a developer, I've worked with multiple startups and businesses like Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and others all around the world. They're all driven by a desire to take their products to the next level.
+
+I graduated with a bachelor's degree in Computer Science and have had the chance to become a Certified Kubernetes Application Developer (CKAD) and a Certified React Nanodegree Developer. I volunteer to teach JavaScript on weekends. I host online programming sessions on YouTube and other platforms in this pandemic.
+
+I create lightweight, powerful cloud native container-based apps that run on any cloud/PaaS platform (AWS, Google Cloud, Azure, Red Hat, etc.). Everything will be automated in my workflows including CI/CD. I can work alone or deploy a team of skilled developers, UI/UX engineers, and technical writers.
+
+To summarize, I've been working on AWS Serverless SaaS using AWS CDK, GitHub Actions, React, Redux, Storybook, Gatsby, AWS Cloud Front, Contentful, AWS Lambda, Docker, API Gateway, AppSync, MongoDB, DynamoDB, Aurora Serverless Relational DB, SQL, Neptune Graph DB, Gremlin Graph Traversal Language, AWS EventBridge, etc.
+
+I'm ready for the next technological wave, and I've created Cloud Native serverless architecture apps that work with any client (including React, React Native, Angular, VueJS, etc) utilizing the AWS stack. Your app will be scalable and able to handle a huge number of users this way. Depending on the requirements of your project, I can provide these cutting-edge technology to ensure that it is a tremendous success and delivered on time.
 
 <h3 align="left">Connect Info:</h3>
 You can connect me here 👇
