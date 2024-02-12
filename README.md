@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Mohsin Khalid</h1>
 <h3 align="center">(Modern Full-Stack Cloud Developer and Architect)</h3>
 
-💬 Modern full stack cloud Developer with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
+💬 Modern full stack cloud Developer and WEB3 sepecialist with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
 
-Have more than 8 years of experience in the industry. As a developer, I've worked with multiple startups and businesses like Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and others all around the world. They're all driven by a desire to take their products to the next level.
+Have more than 8 years of experience in the industry. As a developer, I've worked with multiple startups and businesses like Blinkin, Accelchain, Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and others all around the world. They're all driven by a desire to take their products to the next level.
 
 I graduated with a bachelor's degree in Computer Science and have had the chance to become a Certified Kubernetes Application Developer (CKAD) and a Certified React Nanodegree Developer. I volunteer to teach JavaScript on weekends. I host online programming sessions on YouTube and other platforms in this pandemic.
 
